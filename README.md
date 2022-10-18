@@ -1,29 +1,33 @@
-Hallo nama saya Mohammad Azmi Abdussyukur. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
+**Hallo nama saya Mohammad Azmi Abdussyukur.** Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
-Cara penginstalan GIT
+****Cara penginstalan GIT****
 Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-scm.com .
 ![195978004-f83ef297-525c-4675-8d1e-61391bcb8a78](https://user-images.githubusercontent.com/115864496/196386932-2ded26b9-09ef-4732-bae0-97e6035c2349.png)
  Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
+
 ![67549597-d8d67380-f72e-11e9-9387-456db6ca1fb8](https://user-images.githubusercontent.com/115864496/196388507-e277a256-20bf-46be-a17f-1effae993bba.png)
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
 ![195978194-04778e47-f0cd-4d03-9ceb-23394a12b588](https://user-images.githubusercontent.com/115864496/196388786-2a7a0bb3-cf92-4642-8956-f291bba8b859.png)
 
-Cara membuat akun git
+**Cara membuat akun git**
 Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
 ![195978233-065cd98e-8f18-4b11-ab55-3ebec7a60813](https://user-images.githubusercontent.com/115864496/196389090-91a71f79-3f43-4864-b7c3-7d45c0abdc21.png)
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
-Membuat repositori baru
+**Membuat repositori baru**
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
-Screenshot (13)
+![195978469-53789f6c-4d88-4b94-ac44-77d8c05be1f0](https://user-images.githubusercontent.com/115864496/196391143-95798c95-df44-4009-92c7-2fee2e450e8d.png)
+
 
 Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
-Screenshot (14)
+
+![195978342-860c1ebf-98a0-470c-8586-272e72bfc79d](https://user-images.githubusercontent.com/115864496/196391466-b49ff5eb-6813-4863-9ab0-44b1dd522687.png)
+
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 Screenshot (18)
