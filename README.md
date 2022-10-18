@@ -30,14 +30,17 @@ Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat reposito
 
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
-Screenshot (18)
+
+![195978391-435ade62-7139-47d7-b50b-073c6c000bdb](https://user-images.githubusercontent.com/115864496/196391809-9f10f727-a4e3-4b15-be20-0c83b4453c21.png)
+
 
 Membuat Repository Local
 Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . Screenshot (20)
 
 Lalu kita akan menambahkan Config Global Repository pakai user name dan user email yang tadi sudah dibuat, dengan perintah : $ git config --global user.email “email_user” $ git config --global user.name “nama_user”
 
-Screenshot (21)
+![195978607-35aa8e50-d7fd-4451-b5a6-754d887eb31f](https://user-images.githubusercontent.com/115864496/196393358-475135a6-01d4-4124-b20d-6da8c349a77c.png)
+
 
 Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1Screenshot (22) ".
 
