@@ -6,16 +6,14 @@ Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-sc
  Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
-
-image
+![67549597-d8d67380-f72e-11e9-9387-456db6ca1fb8](https://user-images.githubusercontent.com/115864496/196388507-e277a256-20bf-46be-a17f-1effae993bba.png)
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
-
-Screenshot (19)
+![195978194-04778e47-f0cd-4d03-9ceb-23394a12b588](https://user-images.githubusercontent.com/115864496/196388786-2a7a0bb3-cf92-4642-8956-f291bba8b859.png)
 
 Cara membuat akun git
 Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
-Screenshot (16)
+![195978233-065cd98e-8f18-4b11-ab55-3ebec7a60813](https://user-images.githubusercontent.com/115864496/196389090-91a71f79-3f43-4864-b7c3-7d45c0abdc21.png)
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
