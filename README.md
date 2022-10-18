@@ -35,28 +35,34 @@ Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 
 
 Membuat Repository Local
-Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . Screenshot (20)
+Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here .
+![195978607-35aa8e50-d7fd-4451-b5a6-754d887eb31f](https://user-images.githubusercontent.com/115864496/196393358-475135a6-01d4-4124-b20d-6da8c349a77c.png)
 
 Lalu kita akan menambahkan Config Global Repository pakai user name dan user email yang tadi sudah dibuat, dengan perintah : $ git config --global user.email “email_user” $ git config --global user.name “nama_user”
 
-![195978607-35aa8e50-d7fd-4451-b5a6-754d887eb31f](https://user-images.githubusercontent.com/115864496/196393358-475135a6-01d4-4124-b20d-6da8c349a77c.png)
+![email](https://user-images.githubusercontent.com/115864496/196398009-156e62c6-8484-4fb6-8304-66a4d7b3b613.png)
 
 
-Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1Screenshot (22) ".
+Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1 ![cd labpemograman](https://user-images.githubusercontent.com/115864496/196398284-02c1aa5d-ef66-48e6-90c6-f38b69b336b5.png)
+ ".
 
 Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
 
-Screenshot (23)
+![cara penggunnaan 1](https://user-images.githubusercontent.com/115864496/196398749-eecce526-b3ea-4450-b13b-ec177a23915f.png)
+
 
 Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
 
-Screenshot (24)
+![membuat file readme](https://user-images.githubusercontent.com/115864496/196398850-395c54b5-0293-46c1-a495-4a73bb20f060.png)
+
 
 Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
-Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. Screenshot (26)
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. 
+![cara penggunnaan 1](https://user-images.githubusercontent.com/115864496/196399106-615805ad-be00-4178-948d-2d43d5808b22.png)
 
 Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
+h
 
 File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
