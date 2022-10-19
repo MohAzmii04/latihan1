@@ -82,7 +82,9 @@ Untuk mengirim perubahan pada local repository ke server gunakan perintah “git
 Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
 Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/MohAzmii04/latihan1 . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push
 
-Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
+![end](https://user-images.githubusercontent.com/115864496/196597935-8cb1527a-160b-47fd-b30a-619fa62e6dea.png)
 
+Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
-Terimakasih
+
+**Terimakasih**
