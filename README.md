@@ -1,6 +1,7 @@
 **Hallo nama saya Mohammad Azmi Abdussyukur.** Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
-****Cara penginstalan GIT****
+**Cara penginstalan GIT**
+
 Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-scm.com .
 ![195978004-f83ef297-525c-4675-8d1e-61391bcb8a78](https://user-images.githubusercontent.com/115864496/196386932-2ded26b9-09ef-4732-bae0-97e6035c2349.png)
  Download lah sesuai dengan bit (32 bit atau 64 bit)laptop anda agar support. Setelah selesai download klik instal
@@ -59,15 +60,19 @@ Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lat
 
 Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. 
-![cara penggunnaan 1](https://user-images.githubusercontent.com/115864496/196399106-615805ad-be00-4178-948d-2d43d5808b22.png)
+![git addddd](https://user-images.githubusercontent.com/115864496/196596849-af6fde52-c639-4ee6-8d46-ad48b1ae679c.png)
+
 
 Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
-h
+![commit](https://user-images.githubusercontent.com/115864496/196596983-2fee026a-1948-4ed4-9f71-97085a00a898.png)
+
 
 File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
 Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
-Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/Hazelnuts22/Latihan_1.git Screenshot (8-)
+Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/Hazelnuts22/Latihan_1.git 
+![url](https://user-images.githubusercontent.com/115864496/196597155-cd8fc19a-1373-42ef-b93f-2c6c31d9136f.png)
+
 Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository
 Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub. git_push
 Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
