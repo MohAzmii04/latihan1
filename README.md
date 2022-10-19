@@ -14,12 +14,14 @@ Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa 
 ![195978194-04778e47-f0cd-4d03-9ceb-23394a12b588](https://user-images.githubusercontent.com/115864496/196388786-2a7a0bb3-cf92-4642-8956-f291bba8b859.png)
 
 **Cara membuat akun git**
+
 Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
 ![195978233-065cd98e-8f18-4b11-ab55-3ebec7a60813](https://user-images.githubusercontent.com/115864496/196389090-91a71f79-3f43-4864-b7c3-7d45c0abdc21.png)
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
 **Membuat repositori baru**
+
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
 ![195978469-53789f6c-4d88-4b94-ac44-77d8c05be1f0](https://user-images.githubusercontent.com/115864496/196391143-95798c95-df44-4009-92c7-2fee2e450e8d.png)
