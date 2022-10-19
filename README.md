@@ -62,10 +62,11 @@ Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lat
 
 Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. 
+
 ![git addddd](https://user-images.githubusercontent.com/115864496/196596849-af6fde52-c639-4ee6-8d46-ad48b1ae679c.png)
 
-
 Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
+
 ![commit](https://user-images.githubusercontent.com/115864496/196596983-2fee026a-1948-4ed4-9f71-97085a00a898.png)
 
 
@@ -73,13 +74,13 @@ File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
 Cara penggunaan git dengan perintah dasar git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
 Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/MohAzmii04/latihan1 
+
 ![url](https://user-images.githubusercontent.com/115864496/196597155-cd8fc19a-1373-42ef-b93f-2c6c31d9136f.png)
 
 Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository
 Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub. git_push
 
 ![1](https://user-images.githubusercontent.com/115864496/196597649-81c3940d-c87b-47df-9db1-ece2879146ce.png)
-
 
 Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
 Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/MohAzmii04/latihan1 . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push
